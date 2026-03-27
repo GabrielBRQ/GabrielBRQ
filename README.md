@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel 👋
 
-Sou um Desenvolvedor Front-end apaixonado por criar interfaces responsivas e intuitivas. Sou Bacharel em Ciência da Computação (UNIFRAN) e atualmente continuo me especializando em Análise e Desenvolvimento de Sistemas (Estácio), focando em construir aplicações web modernas e escaláveis.
+Sou um Desenvolvedor Front-end apaixonado por criar interfaces responsivas e intuitivas. Sou Bacharel em Ciência da Computação e atualmente continuo me especializando em Análise e Desenvolvimento de Sistemas, focando em construir aplicações web modernas e escaláveis.
 
 - 💻 Foco principal: **React, TypeScript, JavaScript e ecossistema Front-end**
 - 📚 Atualmente aprofundando em: **Node.js e Bancos de Dados (The Odin Project)**
