@@ -5,7 +5,7 @@ Sou um Desenvolvedor Front-end apaixonado por criar interfaces responsivas e int
 - 💻 Foco principal: **React, TypeScript, JavaScript e ecossistema Front-end**
 - 📚 Atualmente aprofundando em: **Node.js e Bancos de Dados (The Odin Project)**
 - 🚀 Buscando minha primeira oportunidade como Desenvolvedor Júnior ou Estágio.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/gabrielmedvalle/) | [seu-email@aqui.com](mailto:gabrielmedvalle@gmail.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/gabrielmedvalle/) | [gabrielmedvalle@gmail.com](mailto:gabrielmedvalle@gmail.com)
 
 ---
 
