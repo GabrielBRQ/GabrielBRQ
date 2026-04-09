@@ -20,16 +20,3 @@ Sou um Desenvolvedor Front-end apaixonado por criar interfaces responsivas e int
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
-
----
-
-### 📊 Meus Dados no GitHub
-
-<p align="center">
-  <a href="https://github.com/GabrielBRQ">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielBRQ&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/GabrielBRQ">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBRQ&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas" />
-  </a>
-</p>
