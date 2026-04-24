@@ -2,7 +2,7 @@
 
 **Welcome!**
 
-👨🏻‍💻 I'm a Computer Science graduate currently studying Systems Analysis and Development, with a strong focus on Front-end Development.
+👨🏻‍💻 I'm a Computer Science graduate currently studying Systems Analysis and Development, with a strong focus on Front-end Development. <br>
 👨🏻‍💻 I love to learn, I'm a very dedicated and curious person. I'm passionate about problem-solving, building modern web applications, and understanding how things work under the hood. I'm very excited about technology because I love to study, but most of all, I love putting what I've learned into practice! :)
 
 🔧 **Tech:**
